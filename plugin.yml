@@ -1,0 +1,7 @@
+name: fight
+main: org.mineplugin.fight.fight
+version: 1.0
+commands:
+   startbf:
+      description: start bettle field
+      usage: /<command>
